@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning about LLMs, RLs, NLP.
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 Reach me at @vaastavikumar30@gmail.com
-- ⚡ Fun fact: I understand binary better than alphabets. \\ I am exploring myself as well.
+- ⚡ Fun fact: I understand binary better than alphabets.
+- 💙 Coke Studio music *Regional base and beats*
   
 
 <!---
