@@ -10,8 +10,9 @@
   </a>
 </p>
 
-<div align="center" width="50%">
-  <p> Coding is my love language :) </p>
+<!--<div align="center" width="50%">
+  <p> Inhale Exhale code </p>
+<p><marquee>吸う吐くコード</marquee></p>
   <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   <br>
   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
@@ -142,7 +143,7 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/dc4077c2-a4a3-4d5f-a4c0-646c339a2b5b" target="_blank" style="margin-right: 10px;"> 
   <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Ananya Skill Boost Google Profile" height="40" width="40" />  
 </a>
-
+-->
 
 <!-- <a href="https://www.tinkercad.com/users/lgvCZ7BWwIF" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" height="40" width="40" />
