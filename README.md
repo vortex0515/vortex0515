@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=vortex0515&color=blueviolet)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-<h1 align="center"> Yo!!! I'm Vaastavi <img src="" width="25px"></h1>
+<h1 align="center"> Yo!!! I'm Vaastavi <img src="https://github.com/vortex0515/vortex0515/blob/main/796847.jpg" width="25px"></h1>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/ananya-gupta-30aa9b28b/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Ananya LinkedIn" height='20' width='90'/>
