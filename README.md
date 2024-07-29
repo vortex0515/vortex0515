@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Vaastavi .
 - 👀 I’m interested in Linux and machine learning.
-- 🌱 I’m currently learning about LLMs, RLs, NLP, Deep learning.
+- 🌱 I’m currently learning about LLMs, RLs, NLP, WEB3, FULL STACK.
 - 💞️ I’m looking to collaborate on machine learning projects and research papers mainly in the domain of biology and neural networks.
 - 📫 Reach me at @vaastavikumar30@gmail.com
 - ⚡ Fun fact: I understand binary better than alphabets.
