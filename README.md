@@ -34,6 +34,18 @@
 </div>
 <br/>
 
+<h2 align="center">Databases</h2>
+<div align="center">
+   <img src="https://img.shields.io/static/v1?message= MongoDB&label=&color=F4BF96&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+</div>
+<br/>
+
+<h2 align="center">Tools</h2>
+<div align="center">
+   <img src="https://img.shields.io/static/v1?message= Visual Studio Code&label=&color=5C5470&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+   <img src="https://img.shields.io/static/v1?message= Git&label=&color=B9B4C7&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+</div>
+<br/>
 
 <p align="center"> 
   <a href="www.linkedin.com/in/vaastavi-kumar-6b63a221a"> 
