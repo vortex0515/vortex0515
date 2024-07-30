@@ -11,6 +11,29 @@
 - ⚡ Fun fact: I understand binary better than alphabets.
 - 💙 Coke Studio music *Regional base and beats*
 
+<h2 align="center">Languages</h2>
+<div align="center">
+   <img src="https://img.shields.io/static/v1?message= CPP&label=&color=E0F4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+   <img src="https://img.shields.io/static/v1?message= C&label=&color=87C4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?s=for-the-badge&logo=html5&logoColor=white" height="30" alt="gmail logo"  /> -->
+   <img src="https://img.shields.io/static/v1?message= CSS3&label=&color=87C4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message= SCSS&label=&color=E0F4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message= Javascript&label=&color=87C4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+</div>
+<br/>
+
+<h2 align="center">Frameworks and Libraries</h2>
+<div align="center">
+   <img src="https://img.shields.io/static/v1?message= React.js&label=&color=B2C8BA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+   <img src="https://img.shields.io/static/v1?message= React Native&label=&color=86A789&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+   <img src="https://img.shields.io/static/v1?message= Redux&label=&color=B2C8BA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+   <img src="https://img.shields.io/static/v1?message= Node.js&label=&color=86A789&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+   <img src="https://img.shields.io/static/v1?message= Express.js&label=&color=B2C8BA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+   <img src="https://img.shields.io/static/v1?message= Tailwind&label=&color=86A789&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+   <img src="https://img.shields.io/static/v1?message= Bootstrap&label=&color=B2C8BA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+</div>
+<br/>
+
 
 <p align="center"> 
   <a href="www.linkedin.com/in/vaastavi-kumar-6b63a221a"> 
