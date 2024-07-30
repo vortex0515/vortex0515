@@ -2,7 +2,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center"> HOLA BONJOUR こんにちは !!! I'm Vaastavi <img src="https://github.com/vortex0515/vortex0515/blob/main/796847.jpg" width="25px"></h1>
 
-- 👀 I’m interested in Linux and machine learning.
+- 👀 I’m interested in Full Stack Web and App Development, Open Source, Machine Learning, DevOps
 - 🌱 I’m currently learning about LLMs, RLs, NLP, WEB3, FULL STACK.
 - 🔧 SKILLS: Rust, GO, Python, C++, Docker, Kubernetes, CI/CD, HTML, CSS, JavaScript, MongoDB, Express JS, React, Node JS
 - 📚 Here is my resume: 
