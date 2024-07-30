@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=vortex0515&color=blueviolet)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="center"> HOLA BONJOUR こんにちは !!! I'm Vaastavi <img src="https://github.com/vortex0515/vortex0515/blob/main/796847.jpg" width="25px"></h1>
 
-
-- 👋 Hi, I’m Vaastavi .
 - 👀 I’m interested in Linux and machine learning.
 - 🌱 I’m currently learning about LLMs, RLs, NLP, WEB3, FULL STACK.
 - 🔧 SKILLS: Rust, GO, Python, C++, Docker, Kubernetes, CI/CD, HTML, CSS, JavaScript, MongoDB, Express JS, React, Node JS
@@ -12,7 +11,7 @@
 - ⚡ Fun fact: I understand binary better than alphabets.
 - 💙 Coke Studio music *Regional base and beats*
 
-<h1 align="center"> HOLA BONJOUR こんにちは !!! I'm Vaastavi <img src="https://github.com/vortex0515/vortex0515/blob/main/796847.jpg" width="25px"></h1>
+
 <p align="center"> 
   <a href="www.linkedin.com/in/vaastavi-kumar-6b63a221a"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Vaastavi LinkedIn" height='20' width='90'/>
