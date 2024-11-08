@@ -7,7 +7,7 @@ I previously had a different account!
 
 - 📚 **Here is my resume: [RESUME](https://docs.google.com/document/d/1xjs6lv5_0NL_epcNNPbJXeX6O3tK4c1A39468yAR-rA/edit?usp=sharing)**
 - 👀 I’m interested in Full Stack Web and App Development, Open Source, Machine Learning, DevOps
-- 🌱 I’m currently learning about LLMs, RLs, NLP, WEB3, FULL STACK.
+- 🌱 I’m currently learning about LLMs, RLs, Natural Language processing are my favorite.
 - 🔧 SKILLS: Rust, GO, Python, C++, Docker, Kubernetes, CI/CD, HTML, CSS, JavaScript, MongoDB, Express JS, React, Node JS
 - 💞️ I’m looking to collaborate on machine learning projects and Full stack projects.
 - 📫 Reach me at @vaastavikumar30@gmail.com
