@@ -19,7 +19,7 @@ I previously had a different account!
    <img src="https://img.shields.io/static/v1?message= CPP&label=&color=E0F4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
    <img src="https://img.shields.io/static/v1?message= C&label=&color=87C4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
 <!--   <img src="https://img.shields.io/badge/HTML5-E34F26?s=for-the-badge&logo=html5&logoColor=white" height="30" alt="gmail logo"  /> -->
-   <img src="https://img.shields.io/static/v1?message= CSS3&label=&color=87C4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+   <img src="https://img.shields.io/static/v1?message= PYTHON3&label=&color=87C4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
     <img src="https://img.shields.io/static/v1?message= SCSS&label=&color=E0F4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message= Javascript&label=&color=87C4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
 </div>
