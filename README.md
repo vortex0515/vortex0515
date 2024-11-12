@@ -25,17 +25,7 @@ I previously had a different account!
 </div>
 <br/>
 
-<h2 align="center">Frameworks and Libraries</h2>
-<div align="center">
-   <img src="https://img.shields.io/static/v1?message= React.js&label=&color=B2C8BA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-   <img src="https://img.shields.io/static/v1?message= React Native&label=&color=86A789&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-   <img src="https://img.shields.io/static/v1?message= Redux&label=&color=B2C8BA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-   <img src="https://img.shields.io/static/v1?message= Node.js&label=&color=86A789&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-   <img src="https://img.shields.io/static/v1?message= Express.js&label=&color=B2C8BA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-   <img src="https://img.shields.io/static/v1?message= Tailwind&label=&color=86A789&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-   <img src="https://img.shields.io/static/v1?message= Bootstrap&label=&color=B2C8BA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-</div>
-<br/>
+
 
 <h2 align="center">Databases</h2>
 <div align="center">
