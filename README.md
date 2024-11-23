@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=vortex0515&color=blueviolet)
+<center>![](https://komarev.com/ghpvc/?username=vortex0515&color=blueviolet)</center>
 
 <h1 align="center"> HOLA BONJOUR こんにちは !!! I'm Vaastavi <img src="https://github.com/vortex0515/vortex0515/blob/main/796847.jpg" width="25px"></h1>
 <h2 align="center"> FUN FACT I can converse well in French, Spanish and have good knowledge of Japanese [DUOLINGO](https://www.duolingo.com/profile/VaastaviKu)
