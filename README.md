@@ -1,11 +1,11 @@
-<center>![](https://komarev.com/ghpvc/?username=vortex0515&color=blueviolet)</center>
+![](https://komarev.com/ghpvc/?username=vortex0515&color=blueviolet)</center>
 
 <h1 align="center"> HOLA BONJOUR こんにちは !!! I'm Vaastavi <img src="https://github.com/vortex0515/vortex0515/blob/main/796847.jpg" width="25px"></h1>
 <h2 align="center"> FUN FACT I can converse well in French, Spanish and have good knowledge of Japanese [DUOLINGO](https://www.duolingo.com/profile/VaastaviKu)
 </h2>
 
 - 📚 **Here is my resume: [RESUME](https://docs.google.com/document/d/1xjs6lv5_0NL_epcNNPbJXeX6O3tK4c1A39468yAR-rA/edit?usp=sharing)**
-- 👀 I’m interested in Full Stack Web and App Development, Open Source, Machine Learning, DevOps
+- 👀 I’m interested in Full Stack Web Development, Machine Learning and Open Source.
 - 🌱 I’m currently learning about LLMs, RLs, Natural Language processing are my favorite.
 - 🔧 SKILLS: Python, C++, Docker, Kubernetes, CI/CD, HTML, CSS, JavaScript, MongoDB, Express JS, React, Node JS
 - 💞️ I’m looking to collaborate on machine learning projects and Full stack projects.
