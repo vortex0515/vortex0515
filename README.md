@@ -12,30 +12,11 @@
 - ⚡ Fun fact: I like to write clean code.
 
 <h2 align="center">Languages</h2>
-<div align="center">
-   <img src="https://img.shields.io/static/v1?message= CPP&label=&color=E0F4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-   <img src="https://img.shields.io/static/v1?message= C&label=&color=87C4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?s=for-the-badge&logo=html5&logoColor=white" height="30" alt="gmail logo"  /> -->
-   <img src="https://img.shields.io/static/v1?message= PYTHON3&label=&color=87C4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-    <img src="https://img.shields.io/static/v1?message= SCSS&label=&color=E0F4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message= Javascript&label=&color=87C4FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-</div>
-<br/>
 
 
 
-<h2 align="center">Databases</h2>
-<div align="center">
-   <img src="https://img.shields.io/static/v1?message= MongoDB&label=&color=F4BF96&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-</div>
-<br/>
 
-<h2 align="center">Tools</h2>
-<div align="center">
-   <img src="https://img.shields.io/static/v1?message= Visual Studio Code&label=&color=5C5470&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-   <img src="https://img.shields.io/static/v1?message= Git&label=&color=B9B4C7&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-</div>
-<br/>
+
 
 
 
