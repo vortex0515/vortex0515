@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning about LLMs, RLs, Natural Language processing are my favorite.
 - 🔧 SKILLS: Python, C++, Docker, Kubernetes, CI/CD, HTML, CSS, JavaScript, MongoDB, Express JS, React, Node JS
 - 💞️ I’m looking to collaborate on machine learning projects and Full stack projects.
-- 📫 Reach me at @vaastavikumar30@gmail.com
 - ⚡ Fun fact: I like to write clean code.
 
 <h2 align="center">Languages</h2>
